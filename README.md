@@ -361,19 +361,6 @@ Found a mistake? The flag icon on any item opens a short form. It lands in `cont
 
 ---
 
-## Contributing
-
-Before a pull request:
-
-```bash
-npm run typecheck && npm run lint && npm test && npm run i18n:check && npm run build && npm run e2e
-```
-
-All five languages stay in sync — `npm run i18n:check` fails on a missing key. New interface text goes in `messages/en.json` first, then every other locale.
-
-Corrections to the religious content are especially welcome, and go through a scholar before they ship. See [`docs/SCHOLAR_REVIEW.md`](docs/SCHOLAR_REVIEW.md).
-
----
 
 <div align="center">
 
