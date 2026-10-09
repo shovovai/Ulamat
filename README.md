@@ -5,6 +5,7 @@
 ### Learn what every Muslim must know — and say it correctly.
 
 
+
 An AI listens to your Arabic and marks it word by word. Scholars give the rulings.<br>
 Web app, installable PWA, and native Android + iOS from one codebase.
 
